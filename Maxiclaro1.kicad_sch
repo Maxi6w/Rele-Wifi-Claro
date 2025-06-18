@@ -4966,7 +4966,7 @@
 	)
 	(global_label "INPUT3"
 		(shape input)
-		(at 208.28 35.56 0)
+		(at 208.28 33.02 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4976,7 +4976,7 @@
 		)
 		(uuid "037d56e3-eb8e-4eab-a2f0-0df54170cfc7")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 217.9781 35.56 0)
+			(at 217.9781 33.02 0)
 			(show_name yes)
 			(effects
 				(font
@@ -5165,7 +5165,7 @@
 	)
 	(global_label "INPUT2"
 		(shape input)
-		(at 208.28 33.02 0)
+		(at 208.28 35.56 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5175,7 +5175,7 @@
 		)
 		(uuid "54f3bc94-e4fe-413d-b74f-99daee935be1")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 217.9781 33.02 0)
+			(at 217.9781 35.56 0)
 			(show_name yes)
 			(effects
 				(font
@@ -8610,7 +8610,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TerminalBlock:TerminalBlock_bornier-2_P5.08mm"
+		(property "Footprint" "TerminalBlock:TerminalBlock_Altech_AK300-2_P5.00mm"
 			(at 158.75 97.79 0)
 			(effects
 				(font
@@ -9549,7 +9549,7 @@
 				)
 			)
 		)
-		(property "Footprint" "L7805:TO255P1020X450X2000-3"
+		(property "Footprint" "Package_TO_SOT_SMD:TO-263-3_TabPin2"
 			(at 185.293 99.06 0)
 			(effects
 				(font
